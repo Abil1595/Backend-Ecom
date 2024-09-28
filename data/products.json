@@ -1,0 +1,149 @@
+[
+    {
+        "name": "Abi snacks",
+        "price": 245.67,
+        "description": "snack is often less than 200 calories, but this can vary. Snacks come in a variety of forms including packaged snack foods and other processed foods, as well as items made from fresh ingredients at home .",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/chips-product1.jpg"
+            },
+            {
+                "image": "/images/products/11.avif"
+            }
+        ],
+        "category": "Snacks", 
+        "seller": "Amazon", 
+        "stock": 5,   
+        "numOfReviews": 15,
+        "reviews": []  
+    },
+    {
+        "name": "Dev snacks",
+        "price": 150.32,
+        "description": "Snacks come in many forms, including packaged snack foods, processed foods, and items made from fresh ingredients.",
+        "ratings": 3.5,
+        "images": [
+            {
+                "image": "/images/products/12.jpg"
+            }
+        ],
+        "category": "Snacks",
+        "seller": "Flipkart",
+        "stock": 9,
+        "numOfReviews": 5,
+        "reviews": []
+    },
+    {
+        "name": "Vel Groceries",
+        "price": 440.57,
+        "description": "Good vegetables,fruits used to cook in elegant manner",
+        "ratings": 2,
+        "images": [
+            {
+                "image": "/images/products/13.jpg"
+            }
+        ],
+        "category": "Groceries",
+        "seller": "Ebay",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "Talcum powder",
+        "price": 250.45,
+        "description": "nice to use the thing creates pure form of things",
+        "ratings": 4,
+        "images": [
+          {
+            "image": "/images/products/14.jpg"
+          }
+        ],
+        "category": "Powder",
+        "seller": "Ebay",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+      },
+      {
+        "name": "ABI candies",
+        "price": 767.32,
+        "description": "Candies can be divided into crystalline and noncrystalline types. Crystalline candies are smooth and creamy, while noncrystalline candies are hard or chewy",
+        "ratings": 5,
+        "images": [
+          {
+            "image": "/images/products/19.avif"
+          }
+        ],
+        "category": "Candies",
+        "seller": "Ebay",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "New Candies",
+        "price": 15.46,
+        "description": "Candies can be divided into crystalline and noncrystalline types. Crystalline candies are smooth and creamy, while noncrystalline candies are hard or chewy",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/15.avif"
+            }
+        ],
+        "category": "Candies",
+        "seller": "Amazon",
+        "stock": 4,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+        "name": "Campus Cream",
+        "price": 10.12,
+        "description": "The high raised cream cover with extra beauty.",
+        "ratings": 3,
+        "images": [
+            {
+                "image": "/images/products/16.avif"
+            }
+        ],
+        "category": "Cream",
+        "seller": "Ebay",
+        "stock": 6,
+        "numOfReviews": 9,
+        "reviews": []
+    },
+    {
+        "name": "Toronto Snacks",
+        "price": 40.12,
+        "description": "Snacks come in many forms, including packaged snack foods, processed foods, and items made from fresh ingredients.",
+        "ratings": 3,
+        "images": [
+            {
+                "image": "/images/products/17.avif"
+            }
+        ],
+        "category": "Snacks",
+        "seller": "Ebay",
+        "stock": 6,
+        "numOfReviews": 9,
+        "reviews": []
+    },
+    {
+        "name": "Toronto Powder",
+        "price": 40.12,
+        "description": "The high raised cream cover with extra beauty.",
+        "ratings": 3,
+        "images": [
+            {
+                "image": "/images/products/18.avif"
+            }
+        ],
+        "category": "Powder",
+        "seller": "Ebay",
+        "stock": 6,
+        "numOfReviews": 9,
+        "reviews": []
+    }
+]
